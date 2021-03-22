@@ -31,5 +31,3 @@ class Theme extends Events{
 
 const eveniment = new Even("Craciun", "24.11.2021", "20:00", "Siberia", "Under the tree");
 console.log(eveniment)
-
-document.getElementById("test").innerHTML = eveniment.time + eveniment.location
