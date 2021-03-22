@@ -1,0 +1,44 @@
+[
+  {
+    "title": "eCommerce",
+    "date": "12.03.2021",
+    "time": "4:00 PM",
+    "webinar": {
+      "title": "Commerce",
+      "link": "https://google.com"
+    },
+    "event": {
+      "location": "Bucharest",
+      "adress": "Piata Unirii 1"
+    },
+    "theme": "Disney Princess"
+  },
+  {
+    "title": "Javascript Presentation",
+    "date": "14.03.2021",
+    "time": "12:00 PM",
+    "event": { 
+      "location": "Bucharest",
+      "adress": "Remote"
+    }
+  },
+  {
+    "title": "Personal development webinar",
+    "date": "21.04.2021",
+    "time": "8:00 AM",
+    "webinar": {
+      "title": "Personal development webinar",
+      "link": "https://meet.google.com"
+    }
+    },
+    {
+      "title": "Birthday Party",
+      "date": "4.11.2021",
+      "time": "7:00 PM",
+      "event": {
+        "location": "Cluj",
+        "adress": "Centrul Vechi 21"
+      },
+      "theme": " '70s "
+    }
+]
