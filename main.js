@@ -20,8 +20,8 @@ function displayData(dis) {
   <p>Time: ${element.time}</p>
   <p>Theme: ${element.theme}</p>
   <p>Webinar: ${element.webinar}</p>
+  <p>Theme:${element.theme}</p>
   </div>
-  
   `
 )
   if(dis.length > 1 && dis.length < 5) {
